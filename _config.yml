@@ -1,11 +1,11 @@
 # Site settings
 author: Layla Dantas
-title: Why did i decide to learn software 
+title: Why did i decide to learn software development
 header-img: img/home-bg.png
 email: laylatdantas@gmail.com
 copyright_name: Layla Dantas
 description: > # this means to ignore newlines until "baseurl:"
-  development?
+  ?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Layladantassf
 github_username:  dantaslayla11
